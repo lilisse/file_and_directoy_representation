@@ -1,0 +1,14 @@
+wheel
+pytest
+pytest-sugar
+pytest-pudb
+xdoctest
+assertpy
+pre-commit
+black
+mypy
+
+colorama
+arrow
+flatten-dict
+click
